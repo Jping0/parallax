@@ -12,7 +12,7 @@ npm install orijs-parallax --save-dev
 ### vue中引入(需要使用的页面引入)
 
 ```
-import parallax from 'orijs-parallax'
+import 'orijs-parallax/js/parallax.js'
 ```
 
 ### 使用
