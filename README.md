@@ -13,6 +13,8 @@ npm install orijs-parallax --save-dev
 
 ```
 import 'orijs-parallax/js/parallax.js'
+or
+import 'orijs-parallax/js/parallax.min.js'
 ```
 
 ### 使用
