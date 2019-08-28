@@ -1,24 +1,24 @@
 {
   "name": "orijs-parallax",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "This is a roll parallax plugin",
   "main": "js/parallax.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "_development": true,
-  "_from": "orijs-parallax@1.0.2",
-  "_id": "orijs-parallax@1.0.2",
+  "_from": "orijs-parallax@1.0.3",
+  "_id": "orijs-parallax@1.0.3",
   "_location": "/orijs-parallax",
   "_requested": {
     "type": "version",
     "registry": true,
-    "raw": "orijs-parallax@1.0.2",
+    "raw": "orijs-parallax@1.0.3",
     "name": "orijs-parallax",
     "escapedName": "orijs-parallax",
-    "rawSpec": "1.0.2",
+    "rawSpec": "1.0.3",
     "saveSpec": null,
-    "fetchSpec": "1.0.2"
+    "fetchSpec": "1.0.3"
   },
   "repository": {
     "type": "git",
