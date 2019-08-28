@@ -1,0 +1,26 @@
+{
+  "name": "orijs-parallax",
+  "version": "1.0.0",
+  "description": "This is a roll parallax plugin",
+  "main": "parallax.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Jping0/parallax.git"
+  },
+  "keywords": [
+    "js",
+    "plugin",
+    "parallax",
+    "scroll",
+    "roll"
+  ],
+  "author": "Jping0",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Jping0/parallax/issues"
+  },
+  "homepage": "https://github.com/Jping0/parallax#readme"
+}
